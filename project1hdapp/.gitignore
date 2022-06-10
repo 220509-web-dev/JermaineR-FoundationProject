@@ -1,9 +1,0 @@
-.idea/
-target/
-out/
-*.iml
-*.xml
-*.class
-*.jar
-*war
-application.properties
